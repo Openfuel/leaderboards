@@ -1,0 +1,19 @@
+!!python/unicode 'avatar_url': !!python/unicode 'https://avatars1.githubusercontent.com/u/1699428?v=4'
+!!python/unicode 'events_url': !!python/unicode 'https://api.github.com/users/lealife/events{/privacy}'
+!!python/unicode 'followers_url': !!python/unicode 'https://api.github.com/users/lealife/followers'
+!!python/unicode 'following_url': !!python/unicode 'https://api.github.com/users/lealife/following{/other_user}'
+!!python/unicode 'gists_url': !!python/unicode 'https://api.github.com/users/lealife/gists{/gist_id}'
+!!python/unicode 'gravatar_id': !!python/unicode ''
+!!python/unicode 'html_url': !!python/unicode 'https://github.com/lealife'
+!!python/unicode 'id': 1699428
+!!python/unicode 'login': !!python/unicode 'lealife'
+!!python/unicode 'node_id': !!python/unicode 'MDQ6VXNlcjE2OTk0Mjg='
+!!python/unicode 'organizations_url': !!python/unicode 'https://api.github.com/users/lealife/orgs'
+!!python/unicode 'received_events_url': !!python/unicode 'https://api.github.com/users/lealife/received_events'
+!!python/unicode 'repos_url': !!python/unicode 'https://api.github.com/users/lealife/repos'
+!!python/unicode 'score': 1.0
+!!python/unicode 'site_admin': false
+!!python/unicode 'starred_url': !!python/unicode 'https://api.github.com/users/lealife/starred{/owner}{/repo}'
+!!python/unicode 'subscriptions_url': !!python/unicode 'https://api.github.com/users/lealife/subscriptions'
+!!python/unicode 'type': !!python/unicode 'User'
+!!python/unicode 'url': !!python/unicode 'https://api.github.com/users/lealife'

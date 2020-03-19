@@ -1,0 +1,19 @@
+!!python/unicode 'avatar_url': !!python/unicode 'https://avatars1.githubusercontent.com/u/177525?v=4'
+!!python/unicode 'events_url': !!python/unicode 'https://api.github.com/users/sadjow/events{/privacy}'
+!!python/unicode 'followers_url': !!python/unicode 'https://api.github.com/users/sadjow/followers'
+!!python/unicode 'following_url': !!python/unicode 'https://api.github.com/users/sadjow/following{/other_user}'
+!!python/unicode 'gists_url': !!python/unicode 'https://api.github.com/users/sadjow/gists{/gist_id}'
+!!python/unicode 'gravatar_id': !!python/unicode ''
+!!python/unicode 'html_url': !!python/unicode 'https://github.com/sadjow'
+!!python/unicode 'id': 177525
+!!python/unicode 'login': !!python/unicode 'sadjow'
+!!python/unicode 'node_id': !!python/unicode 'MDQ6VXNlcjE3NzUyNQ=='
+!!python/unicode 'organizations_url': !!python/unicode 'https://api.github.com/users/sadjow/orgs'
+!!python/unicode 'received_events_url': !!python/unicode 'https://api.github.com/users/sadjow/received_events'
+!!python/unicode 'repos_url': !!python/unicode 'https://api.github.com/users/sadjow/repos'
+!!python/unicode 'score': 1.0
+!!python/unicode 'site_admin': false
+!!python/unicode 'starred_url': !!python/unicode 'https://api.github.com/users/sadjow/starred{/owner}{/repo}'
+!!python/unicode 'subscriptions_url': !!python/unicode 'https://api.github.com/users/sadjow/subscriptions'
+!!python/unicode 'type': !!python/unicode 'User'
+!!python/unicode 'url': !!python/unicode 'https://api.github.com/users/sadjow'

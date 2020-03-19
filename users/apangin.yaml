@@ -1,0 +1,19 @@
+!!python/unicode 'avatar_url': !!python/unicode 'https://avatars3.githubusercontent.com/u/1749416?v=4'
+!!python/unicode 'events_url': !!python/unicode 'https://api.github.com/users/apangin/events{/privacy}'
+!!python/unicode 'followers_url': !!python/unicode 'https://api.github.com/users/apangin/followers'
+!!python/unicode 'following_url': !!python/unicode 'https://api.github.com/users/apangin/following{/other_user}'
+!!python/unicode 'gists_url': !!python/unicode 'https://api.github.com/users/apangin/gists{/gist_id}'
+!!python/unicode 'gravatar_id': !!python/unicode ''
+!!python/unicode 'html_url': !!python/unicode 'https://github.com/apangin'
+!!python/unicode 'id': 1749416
+!!python/unicode 'login': !!python/unicode 'apangin'
+!!python/unicode 'node_id': !!python/unicode 'MDQ6VXNlcjE3NDk0MTY='
+!!python/unicode 'organizations_url': !!python/unicode 'https://api.github.com/users/apangin/orgs'
+!!python/unicode 'received_events_url': !!python/unicode 'https://api.github.com/users/apangin/received_events'
+!!python/unicode 'repos_url': !!python/unicode 'https://api.github.com/users/apangin/repos'
+!!python/unicode 'score': 1.0
+!!python/unicode 'site_admin': false
+!!python/unicode 'starred_url': !!python/unicode 'https://api.github.com/users/apangin/starred{/owner}{/repo}'
+!!python/unicode 'subscriptions_url': !!python/unicode 'https://api.github.com/users/apangin/subscriptions'
+!!python/unicode 'type': !!python/unicode 'User'
+!!python/unicode 'url': !!python/unicode 'https://api.github.com/users/apangin'

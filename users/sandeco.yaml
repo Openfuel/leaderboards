@@ -1,0 +1,19 @@
+!!python/unicode 'avatar_url': !!python/unicode 'https://avatars3.githubusercontent.com/u/3765602?v=4'
+!!python/unicode 'events_url': !!python/unicode 'https://api.github.com/users/sandeco/events{/privacy}'
+!!python/unicode 'followers_url': !!python/unicode 'https://api.github.com/users/sandeco/followers'
+!!python/unicode 'following_url': !!python/unicode 'https://api.github.com/users/sandeco/following{/other_user}'
+!!python/unicode 'gists_url': !!python/unicode 'https://api.github.com/users/sandeco/gists{/gist_id}'
+!!python/unicode 'gravatar_id': !!python/unicode ''
+!!python/unicode 'html_url': !!python/unicode 'https://github.com/sandeco'
+!!python/unicode 'id': 3765602
+!!python/unicode 'login': !!python/unicode 'sandeco'
+!!python/unicode 'node_id': !!python/unicode 'MDQ6VXNlcjM3NjU2MDI='
+!!python/unicode 'organizations_url': !!python/unicode 'https://api.github.com/users/sandeco/orgs'
+!!python/unicode 'received_events_url': !!python/unicode 'https://api.github.com/users/sandeco/received_events'
+!!python/unicode 'repos_url': !!python/unicode 'https://api.github.com/users/sandeco/repos'
+!!python/unicode 'score': 1.0
+!!python/unicode 'site_admin': false
+!!python/unicode 'starred_url': !!python/unicode 'https://api.github.com/users/sandeco/starred{/owner}{/repo}'
+!!python/unicode 'subscriptions_url': !!python/unicode 'https://api.github.com/users/sandeco/subscriptions'
+!!python/unicode 'type': !!python/unicode 'User'
+!!python/unicode 'url': !!python/unicode 'https://api.github.com/users/sandeco'

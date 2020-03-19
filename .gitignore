@@ -1,3 +1,7 @@
+# api json .yaml files
+languages/*
+users/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
